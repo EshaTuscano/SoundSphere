@@ -1,2 +1,2 @@
 # SoundSphere
-It is a clone of Sportify 
+It is Sportify Clone
